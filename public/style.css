@@ -13,7 +13,7 @@ body {
   /* 9. Add 15px padding */
     padding: 15px;
   /* 10. Make the background color of the container Carolina Blue using the hex code defined here: https://en.wikipedia.org/wiki/Carolina_blue*/
-    background-color: #4B9CD3 
+    background-color: #4B9CD3; 
 }
 
 input[type=text], input[type=password] {
@@ -35,7 +35,7 @@ h1 {
   /* 12. Make the text BOLD */
   text-emphasis-style: BOLD;
   /* 13. Make the text color navy (look up the hex code for navy) */
-  text-emphasis-color: navy;
+  text-decoration-color: navy;
 }
 
 hr {
